@@ -1,0 +1,15 @@
+<DOCTYPE test SYSTEM "test.dtd">
+<student>
+  <sectionA>
+    <name>MANAS</name>
+	<marks>97</marks>
+  </sectionA>
+  <sectionB>
+  <name>Manvi</name>
+  <marks>98</marks>
+  </sectionB>
+  <sectionB>
+  <name>Manvi</name>
+  <marks>98</marks>
+  </sectionB>
+</student>  

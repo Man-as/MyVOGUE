@@ -1,0 +1,67 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Document</title> 
+</head> 
+  
+<body> 
+    <h1 style="text-align: center;text-decoration: underline; ">Resume</h1> 
+    <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;"> 
+        <div> 
+            <p>Name:<b> Manas Gupta</b></p> 
+            <p>Address: Mahmudabad</p> 
+            <p><a href="manasgupta2304@gmail.com">manasgupta2304@gmail@gmail.com<address></address></a></p>             <p>Phone no: 7300736401</p> 
+        </div> 
+        <table align="right"> 
+            <tr> 
+            </tr> 
+        </table> 
+    </div> 
+    <h3 style="margin-top: 2rem;">Objective</h2> 
+        <p>Currently pursuing Bachelor Of Technology in Computer Science Engineering, I am a dedicated, hardworking and self-motivated person. I am a good timekeeper, always willing to learn new skills.</p> 
+        <h3 style="margin-top: 2rem;">Education Qualification</h2> 
+            <table border=2> 
+                <tr> 
+                    <th>Course</th> 
+                    <th>Institution Name</th> 
+                    <th>Branch/Board</th> 
+                    <th>YOP</th> 
+                    <th>%/CGPA</th> 
+                </tr> 
+                <tr> 
+                    <td>B.tech</td> 
+                    <td>ABES Engineering college</td> 
+                    <td>CSE</td> 
+                    <td>2023</td> 
+                    <td>80</td> 
+                </tr> 
+                <tr> 
+                    <td>Intermediate</td> 
+                    <td>S.B.V.M.I.C</td> 
+                    <td>UP BOARD</td> 
+                    <td>2018</td> 
+                    <td>78 
+                    </td> 
+                </tr> 
+                <tr> 
+                    <td>CBSE</td> 
+                    <td>S.R.M.P.S</td> 
+                    <td>CBSE BOARD</td> 
+                    <td>2017</td> 
+                    <td>84</td> 
+                </tr> 
+            </table> 
+  
+            <h3 style="margin-top: 2rem;">Skill Set :-</h3> 
+            <ol> 
+                <li>CPP</li> 
+                <li>Python</li> 
+                <li>Basic Java</li> 
+            </ol> 
+</body> <style> 
+    body {         margin: 4rem 2rem; 
+    } 
+</style>
