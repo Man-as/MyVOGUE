@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT student(sectionA,sectionB+)>
-<!ELEMENT sectionA(name,marks)>
-<!ELEMENT sectionB(name,marks)>
-<!ELEMENT name(#PCDATA)>
-<!ELEMENT marks(#PCDATA)>
-<!ATTLIST sectionA id ID REQUIRED>
